@@ -1,7 +1,7 @@
 /*    
     Program Name:  Photo Gallery Application
-    Author: 
-    Date:   
+    Author: Cassandra Smith 
+    Date:   16 April 2018
     Filename: photos.js
     
  */
@@ -82,7 +82,16 @@ function previewFive() {
 /*         This method attaches event listeners to the buttons (left, right, and show all).            */
 /*******************************************************************************************************/
 function createEventListeners() {
+   //declare variable for document element with id of leftarrow, which is in the html document
+   var leftarrow = document.getElementById("leftarrow");
    
+   //add an event handler to the specified document element (leftarrow)
+   //the leftArrow() function will be executed when the user clicks the left navigation arrow button
+   leftarrow.addEventListener("click", leftArrow, false);
+   
+   //repeat for rightarrow
+   var rightarrow = document.getElementById("rightarrow");
+   rightarrow.addEventListener("click", rightArrow, false);
 
 
    
