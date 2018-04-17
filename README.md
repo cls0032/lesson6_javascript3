@@ -4,19 +4,18 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+17 April 2018
 
 ### Student Name:  
-(First and Last Name)
+Cassandra Smith
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Assignment creates a photo gallery for user to view and navigate through images.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://cls0032.github.io/lesson6_javascript3/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. How to use for loops and arrays to track order of objects.
+2. How to use event listeners to trigger an action when something takes place on the page (such as click).
+3. Further use of getElementById.
